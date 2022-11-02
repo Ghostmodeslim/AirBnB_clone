@@ -18,7 +18,7 @@ This project is interpreted/tested on Ubuntu 14.04 LTS using python3 (version 3.
 
 Installation
 
-Clone this repository: git clone "https://github.com/Ndindakikoma/AirBnB_clone.git"
+Clone this repository: git clone "https://github.com/Ghostmodeslim/AirBnB_clone.git"
 
 Access AirBnb directory: cd AirBnB_clone
 
